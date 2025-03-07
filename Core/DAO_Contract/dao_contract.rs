@@ -154,3 +154,5 @@ pub enum DAOError {
     #[msg("Not enough votes to execute proposal.")]
     NotEnoughVotes,
 }
+
+// :)
