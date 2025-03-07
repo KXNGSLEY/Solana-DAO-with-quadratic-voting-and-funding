@@ -74,3 +74,5 @@ describe("DAO Contract Tests", () => {
         console.log("Proposal executed successfully!");
     });
 });
+
+// :)
